@@ -1,0 +1,85 @@
+.nav-img{
+    width: 100px;
+}
+.background-color-navbar{
+    background-color: #556155;
+    color: #fff;
+    font-weight: 300;
+    /* font-size: large; */
+        /* max-height: 32px;
+        min-height: 20px; */
+}
+
+.background-color-navbar p{
+    font-size: 2em;
+    font-weight: 400;
+}
+
+.img-1 img{
+    width: 300px;
+}
+.font-size{
+ font-size: 20px;
+} 
+label{
+    color: blue;
+}
+.mb-3 input {
+    height: 50px;
+    border-color: #8dc63f !important;
+}
+.mb-3 input:hover{
+    border-color: #007bff !important;
+
+}
+
+.mb-3 input:hover{
+    border-color: #007bff !important;
+
+}
+
+.mb-3 select {
+    height: 50px;
+    border-color: #8dc63f !important;
+
+}
+.upload-container {
+    border: 1px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    width: 250px;
+    /* margin: auto; */
+    background-color: #f9f9f9;
+    border-radius: 5px;
+  }
+  .upload-container:hover {
+    border-color: #007bff;
+  }
+  .upload-text {
+    font-size: 14px;
+    color: #666;
+    margin-top: 10px;
+  }
+  .upload-button {
+    margin-top: 15px;
+  }
+
+a.social-logo > img{
+    max-width: 32px;
+    min-width: 20px;
+}
+.registeration > p{
+font-size: 1.5em;
+font-weight: 700;
+}
+div.logo > img{
+ max-width: 300px;
+ min-width: 150px;
+}
+.portal{
+    border: 2px solid #007bff;
+    border-radius: 20px;
+    background-color: transparent;
+    color: #007bff;
+    /* padding-left: 30px; */
+}
